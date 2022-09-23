@@ -1,28 +1,16 @@
 ### i like to code. 
 
-<a href="https://github-readme-stats.vercel.app/api?username=peaceheis&show_icons=true&theme=vue-dark%22%3E">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=peaceheis&show_icons=true&include_all_commits=true&count_private=true&theme=react" />
-</a>
+- Languages: 
+  - Python 
+  - Java
+  - C++
+  - Web Dev - HTML/CSS/JS
 
-## Things I'm proud of:
+- Current projects:
+  - [Synthesium](https://github.com/peaceheis/synthesium), my general-purpose code-based animation library (also see [Cynthesium](https://github.com/peaceheis/cynthesium), my rewrite of it in C++)
+  - [Orbit](https::github.com/the-bennett-group/orbit), my vanilla-friendly space-exploration mod for the game Minecraft.
 
-
-| **<a href="https://github.com/peaceheis/Synthesium">Synthesium:** <br><img src="https://tokei.rs/b1/github/peaceheis/Synthesium?category=code" /></a>  | **<a href="https://github.com/the-bennett-group/Orbit">Orbit:** <br><img src="https://tokei.rs/b1/github/the-bennett-group/Orbit?category=code" /></a>                              | **<a href="https://github.com/peaceheis/doodlebot">doodlebot:** <br><img src="https://tokei.rs/b1/github/peaceheis/doodlebot?category=code" /></a> |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
-
-<!--
-**peaceheis/peaceheis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also a worldgen API developer for [Quilt](https://github.com/QuiltMC), a Minecraft modding toolchain development group. I most frequently contribute to [QSL](https://github.com/QuiltMC/quilt-standard-libraries), specifically [their worldgen modules](https://github.com/QuiltMC/quilt-standard-libraries/tree/1.19/library/worldgen).  
+  
+  
+![peaceheis' GH stats:](https://github-readme-stats.vercel.app/api?username=peaceheis&show_icons=true&theme=dracula?count_private=true)
