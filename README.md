@@ -13,4 +13,3 @@
 I'm also a worldgen API developer for [Quilt](https://github.com/QuiltMC), a Minecraft modding toolchain development group. I most frequently contribute to [QSL](https://github.com/QuiltMC/quilt-standard-libraries), specifically [their worldgen modules](https://github.com/QuiltMC/quilt-standard-libraries/tree/1.19/library/worldgen).  
   
   
-![peaceheis' GH stats:](https://github-readme-stats.vercel.app/api?username=peaceheis&show_icons=true&theme=dracula?count_private=true)
