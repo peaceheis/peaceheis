@@ -3,8 +3,7 @@
 - Languages: 
   - Python 
   - Java
-  - C++
-  - Web Dev - HTML/CSS/JS
+  - Rust
 
 - Current projects:
   - [Synthesium](https://github.com/peaceheis/synthesium), my general-purpose code-based animation library
